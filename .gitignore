@@ -1,0 +1,4 @@
+../lambda-template/.esbuild
+.serverless
+.webpack
+node_modules
